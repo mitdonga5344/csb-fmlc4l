@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://mitdonga5344.github.io/csb-fmlc4l/static/js/main.b9aebe4a.chunk.js",
+    "main.js.map": "https://mitdonga5344.github.io/csb-fmlc4l/static/js/main.b9aebe4a.chunk.js.map",
+    "runtime-main.js": "https://mitdonga5344.github.io/csb-fmlc4l/static/js/runtime-main.a12dd46a.js",
+    "runtime-main.js.map": "https://mitdonga5344.github.io/csb-fmlc4l/static/js/runtime-main.a12dd46a.js.map",
+    "static/js/2.0b340d99.chunk.js": "https://mitdonga5344.github.io/csb-fmlc4l/static/js/2.0b340d99.chunk.js",
+    "static/js/2.0b340d99.chunk.js.map": "https://mitdonga5344.github.io/csb-fmlc4l/static/js/2.0b340d99.chunk.js.map",
+    "index.html": "https://mitdonga5344.github.io/csb-fmlc4l/index.html",
+    "precache-manifest.6e1fe25e2e78e632a0835acb228f8494.js": "https://mitdonga5344.github.io/csb-fmlc4l/precache-manifest.6e1fe25e2e78e632a0835acb228f8494.js",
+    "service-worker.js": "https://mitdonga5344.github.io/csb-fmlc4l/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a12dd46a.js",
+    "static/js/2.0b340d99.chunk.js",
+    "static/js/main.b9aebe4a.chunk.js"
+  ]
+}
